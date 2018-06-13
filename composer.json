@@ -3,8 +3,8 @@
   "description": "Flags widget for yii2 framework",
   "keywords":    ["yii", "widget", "flags"],
   "type":        "library",
-  "version":     "0.1.2",
-  "license":     "BSD",
+  "version":     "0.1.2.1",
+  "license":     "proprietary",
   "support":     {
     "email":  "imaliy.filsh@gmail.com",
     "source": "https://github.com/filsh/yii2-flags"
