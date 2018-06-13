@@ -1,24 +1,25 @@
 {
-  "name": "nonameffh/yii2-flags",
+  "name":        "nonameffh/yii2-flags",
   "description": "Flags widget for yii2 framework",
-  "keywords": ["yii", "widget", "flags"],
-  "type": "library",
-  "version":"0.1.1",
-  "support": {
-          "email": "imaliy.filsh@gmail.com",
-          "source": "https://github.com/filsh/yii2-flags"
+  "keywords":    ["yii", "widget", "flags"],
+  "type":        "library",
+  "version":     "0.1.2",
+  "license":     "BSD",
+  "support":     {
+    "email":  "imaliy.filsh@gmail.com",
+    "source": "https://github.com/filsh/yii2-flags"
   },
-  "authors": [
-          {
-                  "name": "Igor Maliy",
-                  "email": "imaliy.filsh@gmail.com"
-          }
+  "authors":     [
+    {
+      "name":  "Igor Maliy",
+      "email": "imaliy.filsh@gmail.com"
+    }
   ],
-  "require": {
-          "yiisoft/yii2": "*"
+  "require":     {
+    "yiisoft/yii2": "2.0.*"
   },
-  "autoload": {
-          "psr-0": { "yii\\flags\\": "" }
+  "autoload":    {
+    "psr-0": {"yii\\flags\\": ""}
   },
-  "target-dir": "yii/flags"
+  "target-dir":  "yii/flags"
 }
